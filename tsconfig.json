@@ -1,0 +1,14 @@
+{
+    "include": [
+        "./src/*"
+    ],
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "strict": true,
+        "jsx": "react"
+    }
+}
